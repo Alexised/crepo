@@ -1,0 +1,8 @@
+﻿.ant-table-thead > tr > th {
+    background: #6FBC57;
+    position: relative;
+    color: rgba(255, 255, 255, 1);
+    font-weight: 500;
+    text-align: left;
+    transition: background 0.3s ease;
+}

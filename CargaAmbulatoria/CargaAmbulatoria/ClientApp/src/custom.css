@@ -1,0 +1,32 @@
+/* Provide sufficient contrast against white background */
+a {
+    color: #056B0D;
+}
+
+code {
+    color: #E01A76;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #6FBC57;
+    border-color: #26852D;
+}
+
+    .btn-primary:hover .btn-primary:hover:focus {
+        color: #fff;
+        background-color: #01A8A1;
+        border-color: #26852D;
+    }
+
+.btn-secondary {
+    color: #fff;
+    background-color: #04510A;
+    border-color: #26852D;
+}
+
+    .btn-secondary:hover .btn-secondary:hover:focus {
+        color: #fff;
+        background-color: #01A8A1;
+        border-color: #26852D;
+    }
